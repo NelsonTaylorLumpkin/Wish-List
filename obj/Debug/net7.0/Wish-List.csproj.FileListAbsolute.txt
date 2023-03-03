@@ -1,0 +1,15 @@
+C:\Users\Owner\workspace\csharp\Wish-List\bin\Debug\net7.0\Wish-List.exe
+C:\Users\Owner\workspace\csharp\Wish-List\bin\Debug\net7.0\Wish-List.deps.json
+C:\Users\Owner\workspace\csharp\Wish-List\bin\Debug\net7.0\Wish-List.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\Wish-List\bin\Debug\net7.0\Wish-List.dll
+C:\Users\Owner\workspace\csharp\Wish-List\bin\Debug\net7.0\Wish-List.pdb
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.csproj.AssemblyReference.cache
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.dll
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\refint\Wish-List.dll
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.pdb
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\Wish-List.genruntimeconfig.cache
+C:\Users\Owner\workspace\csharp\Wish-List\obj\Debug\net7.0\ref\Wish-List.dll
